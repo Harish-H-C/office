@@ -1,0 +1,21 @@
+.img-fluid{
+    margin-top: 8%;
+    padding-left: 10%;
+}
+
+.form-group{
+    margin-top: 15%;
+}
+
+.img{
+    height:18%;
+    padding-left: 100%;
+    margin-top: 5%;
+}
+
+.btn1 {
+    width:100%;
+    background:#455A64;
+    color:white;
+    border-radius: 5px;
+}
