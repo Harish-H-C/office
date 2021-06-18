@@ -1,21 +1,46 @@
-.img-fluid{
-    margin-top: 8%;
-    padding-left: 10%;
+.loginImg{
+   padding-top: 3%;
+    padding-left: 3%;
+    width:85%;
+    height:86vh;
+    padding-bottom: 3%;
+    padding-right: 3%;
+    margin-left: 5%;
 }
 
 .form-group{
-    margin-top: 15%;
+    margin-top: 10%;
 }
 
-.img{
-    height:18%;
-    padding-left: 100%;
-    margin-top: 5%;
+.loginPart{
+    padding-right: 15%;
+}
+
+.imgTechnotouch{
+    margin-top: 15%;
+    width: 25%;
+    margin-left: 120%;
 }
 
 .btn1 {
     width:100%;
+    height:42px;
     background:#455A64;
     color:white;
     border-radius: 5px;
+}
+
+.legend {
+    transform: translatey(-50%);
+    width: max-content;
+    background: white;
+    padding: 0 0.15em;
+}
+
+.fieldset {
+    border:1px solid #4da6ff;
+    border-radius: 10px;
+    margin: 0 0.1em 0.1em;
+    padding:0 1em 3em;
+    margin-top: 15%;
 }

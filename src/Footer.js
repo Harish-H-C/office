@@ -1,5 +1,4 @@
 import React from 'react';
-import * as ReactBootstrap from 'react-bootstrap';
 import './Footer.css'
 
 

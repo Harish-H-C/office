@@ -12,7 +12,7 @@ const Header = () => {
 
                 <ReactBootstrap.Navbar.Brand>
                 <div className="pt-2" >
-                   <h3 style={{letterSpacing:"1px"}}>IRMS - Remote Monitoring Suite</h3>
+                   <h3 style={{letterSpacing:"1px"}}>iRMS - Remote Monitoring Suite</h3>
                 </div>
                 </ReactBootstrap.Navbar.Brand>
 
